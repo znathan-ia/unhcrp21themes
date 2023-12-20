@@ -29,7 +29,7 @@ axes.spines.top:    False
 axes.spines.bottom:  False
 axes.spines.left:    False
 axes.spines.right:  False
-axes.prop_cycle: cycler('color', ['E69F00', 'D55E00', 'CC79A7', '7A9193', '56B4E9', '34B185'])         
+axes.prop_cycle: cycler('color', ['E69F00', '56B4E9', 'CC79A7', '34B185', 'D55E00', '7A919E', 'F0E442'])         
 axes.xmargin:   .02
 axes.ymargin:   .02
 axes.zmargin:   .02

@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.ipynb_checkpoints/
+unhcrpyplotstyle.egg-info/
+
+dist/
+
+forpypi.txt

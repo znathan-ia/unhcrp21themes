@@ -1,5 +1,0 @@
-# AXES
-axes.spines.bottom:  True
-
-# TICKS
-xtick.labelbottom:   True
